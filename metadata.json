@@ -1,0 +1,1325 @@
+{
+    "Opel 2.0 litre": {
+        "format": "JPEG",
+        "taille": "800x505",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Opel 6": {
+        "format": "JPEG",
+        "taille": "800x505",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Audi Type SS": {
+        "format": "JPEG",
+        "taille": "1800x1800",
+        "orientation": "Carré",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Audi Zwickau": {
+        "format": "JPEG",
+        "taille": "1800x1800",
+        "orientation": "Carré",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Audi Type R": {
+        "format": "JPEG",
+        "taille": "3072x2304",
+        "orientation": "Paysage",
+        "date_creation": "0000:00:00 00:00:00",
+        "appareil_photo": "E7900"
+    },
+    "Pontiac Catalina": {
+        "format": "JPEG",
+        "taille": "2298x1272",
+        "orientation": "Paysage",
+        "date_creation": "2009:01:18 13:47:14",
+        "appareil_photo": "Canon PowerShot A580"
+    },
+    "Audi Type R Imperator": {
+        "format": "JPEG",
+        "taille": "3072x2304",
+        "orientation": "Paysage",
+        "date_creation": "0000:00:00 00:00:00",
+        "appareil_photo": "E7900"
+    },
+    "Mazda Taiki": {
+        "format": "JPEG",
+        "taille": "1600x1064",
+        "orientation": "Paysage",
+        "date_creation": "2007:10:28 09:45:32",
+        "appareil_photo": "Canon EOS Kiss Digital X"
+    },
+    "Buick Skyhawk": {
+        "format": "JPEG",
+        "taille": "2550x1600",
+        "orientation": "Paysage",
+        "date_creation": "2009:06:20 09:20:27",
+        "appareil_photo": "Canon PowerShot A460"
+    },
+    "Zündapp Janus": {
+        "format": "JPEG",
+        "taille": "1118x753",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Volkswagen Pointer": {
+        "format": "JPEG",
+        "taille": "400x269",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Škoda 760": {
+        "format": "JPEG",
+        "taille": "3648x2736",
+        "orientation": "Paysage",
+        "date_creation": "2011:06:15 12:46:48",
+        "appareil_photo": "FinePix S2000HD"
+    },
+    "Audi Q7": {
+        "format": "JPEG",
+        "taille": "4933x2658",
+        "orientation": "Paysage",
+        "date_creation": "2020:08:19 12:00:19",
+        "appareil_photo": "Canon EOS 200D"
+    },
+    "Bristol 400": {
+        "format": "JPEG",
+        "taille": "1280x960",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Chevrolet Parkwood": {
+        "format": "JPEG",
+        "taille": "1200x624",
+        "orientation": "Paysage",
+        "date_creation": "2008:02:18 13:31:56",
+        "appareil_photo": "HP oj5600"
+    },
+    "Kia Cee'd": {
+        "format": "JPEG",
+        "taille": "1500x1134",
+        "orientation": "Paysage",
+        "date_creation": "2008:08:28 16:11:26",
+        "appareil_photo": "DMC-LZ5"
+    },
+    "Kia cee'd": {
+        "format": "JPEG",
+        "taille": "1500x1134",
+        "orientation": "Paysage",
+        "date_creation": "2008:08:28 16:11:26",
+        "appareil_photo": "DMC-LZ5"
+    },
+    "Ford Futura": {
+        "format": "JPEG",
+        "taille": "3648x2736",
+        "orientation": "Paysage",
+        "date_creation": "2017:05:28 12:51:27",
+        "appareil_photo": "Canon DIGITAL IXUS 85 IS"
+    },
+    "Opel 1.3 litre": {
+        "format": "JPEG",
+        "taille": "2560x1920",
+        "orientation": "Paysage",
+        "date_creation": "2010:09:21 02:19:24",
+        "appareil_photo": "Compactline 55 "
+    },
+    "Opel 1.3 L": {
+        "format": "JPEG",
+        "taille": "2560x1920",
+        "orientation": "Paysage",
+        "date_creation": "2010:09:21 02:19:24",
+        "appareil_photo": "Compactline 55 "
+    },
+    "Volvo PV 36 Carioca": {
+        "format": "JPEG",
+        "taille": "1000x750",
+        "orientation": "Paysage",
+        "date_creation": "2007:08:12 11:33:19",
+        "appareil_photo": "Canon DIGITAL IXUS 55"
+    },
+    "UAZ-469": {
+        "format": "JPEG",
+        "taille": "4000x3000",
+        "orientation": "Paysage",
+        "date_creation": "2018:08:18 12:09:30",
+        "appareil_photo": "DMC-GH1"
+    },
+    "Daewoo Matiz": {
+        "format": "JPEG",
+        "taille": "2424x1860",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Daewoo Tacuma": {
+        "format": "JPEG",
+        "taille": "2004x1212",
+        "orientation": "Paysage",
+        "date_creation": "2007:08:01 13:22:06",
+        "appareil_photo": "DMC-LZ5"
+    },
+    "Daewoo Rezzo": {
+        "format": "JPEG",
+        "taille": "2004x1212",
+        "orientation": "Paysage",
+        "date_creation": "2007:08:01 13:22:06",
+        "appareil_photo": "DMC-LZ5"
+    },
+    "Lincoln Continental Mark VI": {
+        "format": "JPEG",
+        "taille": "1240x698",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Volkswagen Microbus Concept": {
+        "format": "JPEG",
+        "taille": "1024x768",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Lancia ECV": {
+        "format": "JPEG",
+        "taille": "3888x2592",
+        "orientation": "Paysage",
+        "date_creation": "2014:06:15 17:09:31",
+        "appareil_photo": "Canon EOS 1000D"
+    },
+    "Standard Ten": {
+        "format": "JPEG",
+        "taille": "1024x768",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "NSU Spider": {
+        "format": "JPEG",
+        "taille": "400x235",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Lotus Carlton": {
+        "format": "JPEG",
+        "taille": "800x600",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Nissan Violet": {
+        "format": "JPEG",
+        "taille": "1893x1079",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Datsun Type 11": {
+        "format": "JPEG",
+        "taille": "5412x3745",
+        "orientation": "Paysage",
+        "date_creation": "2015:09:19 11:54:55",
+        "appareil_photo": "ILCE-7M2"
+    },
+    "Nissan Maxima": {
+        "format": "JPEG",
+        "taille": "3828x1546",
+        "orientation": "Paysage",
+        "date_creation": "2020:03:01 10:37:23",
+        "appareil_photo": "Canon EOS 7D"
+    },
+    "Ford Laser": {
+        "format": "JPEG",
+        "taille": "4048x2366",
+        "orientation": "Paysage",
+        "date_creation": "2015:11:15 12:37:07",
+        "appareil_photo": "Canon EOS 500D"
+    },
+    "Aston Martin DBS V12": {
+        "format": "JPEG",
+        "taille": "3708x1475",
+        "orientation": "Paysage",
+        "date_creation": "2008:11:16 11:35:38",
+        "appareil_photo": "DSLR-A200"
+    },
+    "Mitsubishi Dignity": {
+        "format": "JPEG",
+        "taille": "1600x1000",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "TVR 420 SEAC": {
+        "format": "JPEG",
+        "taille": "3342x2124",
+        "orientation": "Paysage",
+        "date_creation": "2009:08:23 10:25:13",
+        "appareil_photo": "Samsung S1070 / KENOX S1070\u0000\u0000\u0000"
+    },
+    "Volvo PV 60": {
+        "format": "JPEG",
+        "taille": "800x462",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Mercedes-Benz SLR McLaren": {
+        "format": "JPEG",
+        "taille": "2592x1944",
+        "orientation": "Paysage",
+        "date_creation": "2006:01:18 17:28:15",
+        "appareil_photo": "Canon DIGITAL IXUS 50"
+    },
+    "Peugeot 206": {
+        "format": "JPEG",
+        "taille": "4139x2045",
+        "orientation": "Paysage",
+        "date_creation": "2018:02:06 14:30:57",
+        "appareil_photo": "Canon EOS 200D"
+    },
+    "Audi Front": {
+        "format": "JPEG",
+        "taille": "2382x1588",
+        "orientation": "Paysage",
+        "date_creation": "2009:08:23 13:58:05",
+        "appareil_photo": "Canon DIGITAL IXUS 80 IS"
+    },
+    "Audi Type P": {
+        "format": "JPEG",
+        "taille": "3072x2304",
+        "orientation": "Paysage",
+        "date_creation": "0000:00:00 00:00:00",
+        "appareil_photo": "E7900"
+    },
+    "Audi 225": {
+        "format": "JPEG",
+        "taille": "1500x880",
+        "orientation": "Paysage",
+        "date_creation": "2007:09:15 18:58:57",
+        "appareil_photo": "Canon DIGITAL IXUS 40"
+    },
+    "Audi Cabriolet": {
+        "format": "JPEG",
+        "taille": "5424x3019",
+        "orientation": "Paysage",
+        "date_creation": "2024:03:17 14:56:53",
+        "appareil_photo": "Canon EOS 5D Mark IV"
+    },
+    "Pontiac Chieftain": {
+        "format": "JPEG",
+        "taille": "4533x3029",
+        "orientation": "Paysage",
+        "date_creation": "2018:03:22 16:31:23",
+        "appareil_photo": "Canon EOS 5D Mark III"
+    },
+    "Chevrolet Orlando": {
+        "format": "JPEG",
+        "taille": "1260x700",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Volkswagen Passat B2": {
+        "format": "JPEG",
+        "taille": "1788x1161",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Volkswagen Passat II": {
+        "format": "JPEG",
+        "taille": "1788x1161",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Chevrolet Spin": {
+        "format": "JPEG",
+        "taille": "4610x2658",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Mitsubishi Pajero iO": {
+        "format": "JPEG",
+        "taille": "2456x1635",
+        "orientation": "Paysage",
+        "date_creation": "2010:05:25 20:20:42",
+        "appareil_photo": "EX-Z1080   "
+    },
+    "Mitsubishi Pajero Pinin": {
+        "format": "JPEG",
+        "taille": "2456x1635",
+        "orientation": "Paysage",
+        "date_creation": "2010:05:25 20:20:42",
+        "appareil_photo": "EX-Z1080   "
+    },
+    "Cadillac Cyclone": {
+        "format": "JPEG",
+        "taille": "6016x4000",
+        "orientation": "Paysage",
+        "date_creation": "2016:02:27 17:50:53",
+        "appareil_photo": "NIKON D3200"
+    },
+    "Nissan Junior": {
+        "format": "JPEG",
+        "taille": "948x948",
+        "orientation": "Carré",
+        "date_creation": "2019:12:01 13:34:56",
+        "appareil_photo": "Inconnu"
+    },
+    "Mercury Cyclone": {
+        "format": "JPEG",
+        "taille": "499x359",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Citroën C8": {
+        "format": "JPEG",
+        "taille": "3560x2168",
+        "orientation": "Paysage",
+        "date_creation": "2018:01:05 14:47:01",
+        "appareil_photo": "Canon PowerShot SX530 HS"
+    },
+    "Hyundai Scoupe": {
+        "format": "JPEG",
+        "taille": "1200x803",
+        "orientation": "Paysage",
+        "date_creation": "2016:07:21 13:06:28",
+        "appareil_photo": "Canon PowerShot G10"
+    },
+    "Fiat 131": {
+        "format": "JPEG",
+        "taille": "3724x1983",
+        "orientation": "Paysage",
+        "date_creation": "2012:06:24 16:48:01",
+        "appareil_photo": "DMC-TZ10"
+    },
+    "AMC Matador": {
+        "format": "JPEG",
+        "taille": "1460x880",
+        "orientation": "Paysage",
+        "date_creation": "2010:03:01 14:38:58",
+        "appareil_photo": "Digimax 201"
+    },
+    "AMC Ambassador": {
+        "format": "JPEG",
+        "taille": "1700x700",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "AMC Eagle": {
+        "format": "JPEG",
+        "taille": "550x300",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "AMC Gremlin": {
+        "format": "JPEG",
+        "taille": "1353x701",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "AMC Concord": {
+        "format": "JPEG",
+        "taille": "600x330",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "AMC AMX": {
+        "format": "JPEG",
+        "taille": "2480x1500",
+        "orientation": "Paysage",
+        "date_creation": "2007:10:20 01:54:20",
+        "appareil_photo": "Canon PowerShot A460"
+    },
+    "AMC Hornet": {
+        "format": "JPEG",
+        "taille": "1480x900",
+        "orientation": "Paysage",
+        "date_creation": "2009:04:27 13:22:50",
+        "appareil_photo": "SPH-M800"
+    },
+    "AWS Shopper": {
+        "format": "JPEG",
+        "taille": "1280x960",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "AMC Spirit": {
+        "format": "JPEG",
+        "taille": "2592x1944",
+        "orientation": "Paysage",
+        "date_creation": "2010:06:19 12:05:29",
+        "appareil_photo": "Canon PowerShot A460"
+    },
+    "AMC Javelin": {
+        "format": "JPEG",
+        "taille": "2592x1600",
+        "orientation": "Paysage",
+        "date_creation": "2011:07:29 20:09:58",
+        "appareil_photo": "iPhone 4"
+    },
+    "AMC Rebel": {
+        "format": "JPEG",
+        "taille": "520x260",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "AWZ P70": {
+        "format": "JPEG",
+        "taille": "1800x1350",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Zwickau P70": {
+        "format": "JPEG",
+        "taille": "1800x1350",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "AMC Pacer": {
+        "format": "JPEG",
+        "taille": "1482x894",
+        "orientation": "Paysage",
+        "date_creation": "2010:04:14 19:25:01",
+        "appareil_photo": "iPhone 3G"
+    },
+    "Matra Murena": {
+        "format": "JPEG",
+        "taille": "1941x1072",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Talbot-Matra Murena": {
+        "format": "JPEG",
+        "taille": "1941x1072",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Chrysler Nassau": {
+        "format": "JPEG",
+        "taille": "2517x1411",
+        "orientation": "Paysage",
+        "date_creation": "2007:01:24 20:46:54",
+        "appareil_photo": "Canon PowerShot A540"
+    },
+    "Mazda6": {
+        "format": "JPEG",
+        "taille": "4182x1909",
+        "orientation": "Paysage",
+        "date_creation": "2019:02:17 13:53:00",
+        "appareil_photo": "Canon EOS 200D"
+    },
+    "Mazda 6": {
+        "format": "JPEG",
+        "taille": "4182x1909",
+        "orientation": "Paysage",
+        "date_creation": "2019:02:17 13:53:00",
+        "appareil_photo": "Canon EOS 200D"
+    },
+    "Aston Martin DB2": {
+        "format": "JPEG",
+        "taille": "768x524",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Bushranger": {
+        "format": "JPEG",
+        "taille": "3008x2000",
+        "orientation": "Paysage",
+        "date_creation": "2006:02:28 08:14:07",
+        "appareil_photo": "NIKON D70"
+    },
+    "Bush Ranger": {
+        "format": "JPEG",
+        "taille": "3008x2000",
+        "orientation": "Paysage",
+        "date_creation": "2006:02:28 08:14:07",
+        "appareil_photo": "NIKON D70"
+    },
+    "Moskvitch 408": {
+        "format": "JPEG",
+        "taille": "3872x2592",
+        "orientation": "Paysage",
+        "date_creation": "2011:09:03 12:04:40",
+        "appareil_photo": "NIKON D40X"
+    },
+    "Napier-Railton": {
+        "format": "JPEG",
+        "taille": "2816x2112",
+        "orientation": "Paysage",
+        "date_creation": "2008:05:11 13:21:47",
+        "appareil_photo": "FinePix F650"
+    },
+    "Matra MS640": {
+        "format": "JPEG",
+        "taille": "4752x3168",
+        "orientation": "Paysage",
+        "date_creation": "2011:02:02 13:33:20",
+        "appareil_photo": "Canon EOS 50D"
+    },
+    "Audi 80": {
+        "format": "JPEG",
+        "taille": "2838x1632",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "SEAT Arosa": {
+        "format": "JPEG",
+        "taille": "1716x1140",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Seat Arosa": {
+        "format": "JPEG",
+        "taille": "1716x1140",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "BMW 5 Series Gran Turismo": {
+        "format": "JPEG",
+        "taille": "746x460",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "BMW Série 5 Gran Turismo": {
+        "format": "JPEG",
+        "taille": "746x460",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Daihatsu Storia": {
+        "format": "JPEG",
+        "taille": "2522x1248",
+        "orientation": "Paysage",
+        "date_creation": "2010:04:11 15:39:03",
+        "appareil_photo": "Canon EOS 20D"
+    },
+    "Peugeot Type 3": {
+        "format": "JPEG",
+        "taille": "1024x768",
+        "orientation": "Paysage",
+        "date_creation": "2007:03:29 13:59:39",
+        "appareil_photo": "Canon DIGITAL IXUS 400"
+    },
+    "Ferrari 250 GTO": {
+        "format": "JPEG",
+        "taille": "1235x744",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Tatra 603": {
+        "format": "JPEG",
+        "taille": "3300x2200",
+        "orientation": "Paysage",
+        "date_creation": "2008:06:28 16:09:39",
+        "appareil_photo": "Canon EOS 350D DIGITAL"
+    },
+    "Pontiac Grand Am": {
+        "format": "JPEG",
+        "taille": "2115x1116",
+        "orientation": "Paysage",
+        "date_creation": "2011:12:23 14:10:44",
+        "appareil_photo": "Canon PowerShot A590 IS"
+    },
+    "Pontiac 6000": {
+        "format": "JPEG",
+        "taille": "914x468",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Pontiac Astre": {
+        "format": "JPEG",
+        "taille": "581x600",
+        "orientation": "Portrait",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Mitsubishi Colt CZC": {
+        "format": "JPEG",
+        "taille": "1803x1161",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Riich M1": {
+        "format": "JPEG",
+        "taille": "1300x847",
+        "orientation": "Paysage",
+        "date_creation": "2016:04:19 10:04:40",
+        "appareil_photo": "SM-T230"
+    },
+    "Mini": {
+        "format": "JPEG",
+        "taille": "1924x1204",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Lamborghini Sesto Elemento": {
+        "format": "JPEG",
+        "taille": "4288x2848",
+        "orientation": "Paysage",
+        "date_creation": "2010:10:03 14:47:13",
+        "appareil_photo": "NIKON D90"
+    },
+    "Zastava Koral": {
+        "format": "JPEG",
+        "taille": "638x750",
+        "orientation": "Portrait",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Piaggio Ape": {
+        "format": "JPEG",
+        "taille": "1484x1068",
+        "orientation": "Paysage",
+        "date_creation": "2006:04:22 07:53:19",
+        "appareil_photo": "DigitalCAM"
+    },
+    "BA-27": {
+        "format": "JPEG",
+        "taille": "4917x3278",
+        "orientation": "Paysage",
+        "date_creation": "2014:04:12 14:39:43",
+        "appareil_photo": "Canon EOS 70D"
+    },
+    "Zastava Yugo": {
+        "format": "JPEG",
+        "taille": "638x750",
+        "orientation": "Portrait",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Renault 25": {
+        "format": "JPEG",
+        "taille": "768x512",
+        "orientation": "Paysage",
+        "date_creation": "1999:02:25 20:24:52",
+        "appareil_photo": "KODAK DC265 ZOOM DIGITAL CAMERA (V01.00)"
+    },
+    "Isuzu Panther": {
+        "format": "JPEG",
+        "taille": "3532x1674",
+        "orientation": "Paysage",
+        "date_creation": "2011:04:30 22:56:44",
+        "appareil_photo": "Canon PowerShot SX130 IS"
+    },
+    "Lamborghini Murciélago": {
+        "format": "JPEG",
+        "taille": "1573x1049",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Shelby Mustang": {
+        "format": "JPEG",
+        "taille": "4783x2434",
+        "orientation": "Paysage",
+        "date_creation": "2018:03:22 13:31:02",
+        "appareil_photo": "Canon EOS 5D Mark III"
+    },
+    "Shelby GT 500": {
+        "format": "JPEG",
+        "taille": "4783x2434",
+        "orientation": "Paysage",
+        "date_creation": "2018:03:22 13:31:02",
+        "appareil_photo": "Canon EOS 5D Mark III"
+    },
+    "Chevrolet SSR": {
+        "format": "JPEG",
+        "taille": "1864x1265",
+        "orientation": "Paysage",
+        "date_creation": "2007:10:04 09:57:56",
+        "appareil_photo": "Canon PowerShot A540"
+    },
+    "Volkswagen Jetta II": {
+        "format": "JPEG",
+        "taille": "1946x1071",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Renault Vivastella": {
+        "format": "JPEG",
+        "taille": "1024x768",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "BYD M6": {
+        "format": "JPEG",
+        "taille": "1024x646",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "FAI armoured car": {
+        "format": "JPEG",
+        "taille": "340x232",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Ford-A Izhorskiy": {
+        "format": "JPEG",
+        "taille": "340x232",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Great Wall Voleex C30": {
+        "format": "JPEG",
+        "taille": "1024x598",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Chevrolet HHR": {
+        "format": "JPEG",
+        "taille": "3126x2085",
+        "orientation": "Paysage",
+        "date_creation": "2007:06:10 16:28:18",
+        "appareil_photo": "DSC-W100"
+    },
+    "Wolseley 7 1/2": {
+        "format": "JPEG",
+        "taille": "463x289",
+        "orientation": "Paysage",
+        "date_creation": "2009:03:12 23:23:59",
+        "appareil_photo": "HP Scanjet 4370"
+    },
+    "Chrysler 300": {
+        "format": "JPEG",
+        "taille": "2067x1251",
+        "orientation": "Paysage",
+        "date_creation": "2007:10:18 10:14:32",
+        "appareil_photo": "Canon PowerShot A540"
+    },
+    "BMW 340": {
+        "format": "JPEG",
+        "taille": "1818x1232",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Maserati MC12": {
+        "format": "JPEG",
+        "taille": "2200x1284",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Wolseley 8": {
+        "format": "JPEG",
+        "taille": "2919x1953",
+        "orientation": "Paysage",
+        "date_creation": "2013:11:03 10:44:59",
+        "appareil_photo": "Canon EOS 60D"
+    },
+    "Vauxhall Firenza": {
+        "format": "JPEG",
+        "taille": "2719x1632",
+        "orientation": "Paysage",
+        "date_creation": "2014:08:24 10:59:18",
+        "appareil_photo": "Canon EOS 40D"
+    },
+    "ZIL-41047": {
+        "format": "JPEG",
+        "taille": "500x334",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "ZIL 41047": {
+        "format": "JPEG",
+        "taille": "500x334",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "ZIL-111": {
+        "format": "JPEG",
+        "taille": "3606x2248",
+        "orientation": "Paysage",
+        "date_creation": "2021:11:20 14:08:03",
+        "appareil_photo": "G8342"
+    },
+    "ZIL 111": {
+        "format": "JPEG",
+        "taille": "3606x2248",
+        "orientation": "Paysage",
+        "date_creation": "2021:11:20 14:08:03",
+        "appareil_photo": "G8342"
+    },
+    "ZAZ Tavria": {
+        "format": "JPEG",
+        "taille": "4608x3072",
+        "orientation": "Paysage",
+        "date_creation": "2021:10:30 16:03:47",
+        "appareil_photo": "E-M10           "
+    },
+    "ZF Champion": {
+        "format": "JPEG",
+        "taille": "3196x2163",
+        "orientation": "Paysage",
+        "date_creation": "2011:03:11 11:39:31",
+        "appareil_photo": "Compactline 130"
+    },
+    "ZIS-101": {
+        "format": "JPEG",
+        "taille": "4078x3059",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Volkswagen Iltis": {
+        "format": "JPEG",
+        "taille": "2048x1536",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Ferrari 599 GTB Fiorano": {
+        "format": "JPEG",
+        "taille": "2712x1569",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Lifan 320": {
+        "format": "JPEG",
+        "taille": "4032x3024",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Ford Scorpio": {
+        "format": "JPEG",
+        "taille": "1650x921",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Toyota Vellfire": {
+        "format": "JPEG",
+        "taille": "4126x2901",
+        "orientation": "Paysage",
+        "date_creation": "2020:04:10 12:15:37",
+        "appareil_photo": "E-PL9           "
+    },
+    "Lada Largus": {
+        "format": "JPEG",
+        "taille": "1607x1247",
+        "orientation": "Paysage",
+        "date_creation": "2018:09:08 18:15:22",
+        "appareil_photo": "LG-M160"
+    },
+    "LADA Priora": {
+        "format": "JPEG",
+        "taille": "1600x1200",
+        "orientation": "Paysage",
+        "date_creation": "2006:02:14 00:03:19",
+        "appareil_photo": "Canon PowerShot A640"
+    },
+    "Lada Priora": {
+        "format": "JPEG",
+        "taille": "1600x1200",
+        "orientation": "Paysage",
+        "date_creation": "2006:02:14 00:03:19",
+        "appareil_photo": "Canon PowerShot A640"
+    },
+    "Alfa Romeo 159": {
+        "format": "JPEG",
+        "taille": "880x464",
+        "orientation": "Paysage",
+        "date_creation": "2005:09:04 09:14:16",
+        "appareil_photo": "Canon PowerShot A40"
+    },
+    "Peugeot 205": {
+        "format": "JPEG",
+        "taille": "1665x1023",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Peugeot 307": {
+        "format": "JPEG",
+        "taille": "4204x2292",
+        "orientation": "Paysage",
+        "date_creation": "2021:04:27 12:14:42",
+        "appareil_photo": "Canon EOS 200D"
+    },
+    "Geely Emgrand EC7": {
+        "format": "JPEG",
+        "taille": "1300x783",
+        "orientation": "Paysage",
+        "date_creation": "2011:01:17 01:23:18",
+        "appareil_photo": "SAMSUNG PL210, PL211 / VLUU PL210, PL211"
+    },
+    "Emgrand EC7": {
+        "format": "JPEG",
+        "taille": "1300x783",
+        "orientation": "Paysage",
+        "date_creation": "2011:01:17 01:23:18",
+        "appareil_photo": "SAMSUNG PL210, PL211 / VLUU PL210, PL211"
+    },
+    "Škoda 100": {
+        "format": "JPEG",
+        "taille": "2437x1875",
+        "orientation": "Paysage",
+        "date_creation": "2010:04:07 19:21:59",
+        "appareil_photo": "U10i"
+    },
+    "Škoda 100/110": {
+        "format": "JPEG",
+        "taille": "2437x1875",
+        "orientation": "Paysage",
+        "date_creation": "2010:04:07 19:21:59",
+        "appareil_photo": "U10i"
+    },
+    "Subaru Impreza": {
+        "format": "JPEG",
+        "taille": "4945x2603",
+        "orientation": "Paysage",
+        "date_creation": "2023:02:06 11:43:41",
+        "appareil_photo": "Canon PowerShot SX740 HS"
+    },
+    "Škoda 1000 MB": {
+        "format": "JPEG",
+        "taille": "3648x2736",
+        "orientation": "Paysage",
+        "date_creation": "2011:06:13 12:12:21",
+        "appareil_photo": "FinePix S2000HD"
+    },
+    "Porsche 9PA": {
+        "format": "JPEG",
+        "taille": "3600x1984",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Porsche Cayenne (Type 9PA)": {
+        "format": "JPEG",
+        "taille": "3600x1984",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Opel P4": {
+        "format": "JPEG",
+        "taille": "1600x1200",
+        "orientation": "Paysage",
+        "date_creation": "2003:02:13 14:25:01",
+        "appareil_photo": "DiMAGE 7i"
+    },
+    "Vector W2": {
+        "format": "JPEG",
+        "taille": "1316x860",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Fiat 509": {
+        "format": "JPEG",
+        "taille": "800x445",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Honda Inspire": {
+        "format": "JPEG",
+        "taille": "2552x1653",
+        "orientation": "Paysage",
+        "date_creation": "2007:12:21 10:43:56",
+        "appareil_photo": "COOLPIX P5100"
+    },
+    "Vector W8": {
+        "format": "JPEG",
+        "taille": "1939x903",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Mazda MX-5": {
+        "format": "JPEG",
+        "taille": "5506x3173",
+        "orientation": "Paysage",
+        "date_creation": "2023:05:13 16:45:49",
+        "appareil_photo": "Canon EOS 5D Mark IV"
+    },
+    "AC Propulsion eBox": {
+        "format": "JPEG",
+        "taille": "800x600",
+        "orientation": "Paysage",
+        "date_creation": "2006:08:18 00:53:16",
+        "appareil_photo": "Canon PowerShot A520"
+    },
+    "AC Cobra": {
+        "format": "JPEG",
+        "taille": "2109x1126",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "AC Greyhound": {
+        "format": "JPEG",
+        "taille": "800x407",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Audi A4 B8": {
+        "format": "JPEG",
+        "taille": "2700x1802",
+        "orientation": "Paysage",
+        "date_creation": "2012:02:20 10:08:14",
+        "appareil_photo": "DMC-LZ5"
+    },
+    "AFG Grégoire": {
+        "format": "JPEG",
+        "taille": "3112x2452",
+        "orientation": "Paysage",
+        "date_creation": "2011:03:14 14:49:07",
+        "appareil_photo": "Compactline 130"
+    },
+    "AC Propulsion tzero": {
+        "format": "JPEG",
+        "taille": "3353x2705",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Aston Martin DB4": {
+        "format": "JPEG",
+        "taille": "819x419",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Opel GT (roadster)": {
+        "format": "JPEG",
+        "taille": "2439x1395",
+        "orientation": "Paysage",
+        "date_creation": "2008:09:07 19:02:22",
+        "appareil_photo": "EX-Z1080   "
+    },
+    "Austin Allegro": {
+        "format": "JPEG",
+        "taille": "2105x1263",
+        "orientation": "Paysage",
+        "date_creation": "2008:08:24 15:34:03",
+        "appareil_photo": "Canon DIGITAL IXUS 40"
+    },
+    "Opel GT Roadster": {
+        "format": "JPEG",
+        "taille": "2439x1395",
+        "orientation": "Paysage",
+        "date_creation": "2008:09:07 19:02:22",
+        "appareil_photo": "EX-Z1080   "
+    },
+    "Ford Cortina": {
+        "format": "JPEG",
+        "taille": "2920x1947",
+        "orientation": "Paysage",
+        "date_creation": "2009:07:12 10:41:07",
+        "appareil_photo": "Canon DIGITAL IXUS 80 IS"
+    },
+    "Daihatsu Boon": {
+        "format": "JPEG",
+        "taille": "1920x1080",
+        "orientation": "Paysage",
+        "date_creation": "2010:12:20 09:46:36",
+        "appareil_photo": "NIKON D3000"
+    },
+    "Toyota Passo": {
+        "format": "JPEG",
+        "taille": "1920x1080",
+        "orientation": "Paysage",
+        "date_creation": "2010:12:20 09:46:36",
+        "appareil_photo": "NIKON D3000"
+    },
+    "Audi A8": {
+        "format": "JPEG",
+        "taille": "4154x2122",
+        "orientation": "Paysage",
+        "date_creation": "2019:01:20 14:09:31",
+        "appareil_photo": "Canon EOS 200D"
+    },
+    "Kia Sportage": {
+        "format": "JPEG",
+        "taille": "4059x2328",
+        "orientation": "Paysage",
+        "date_creation": "2018:12:04 14:48:03",
+        "appareil_photo": "Canon EOS 200D"
+    },
+    "Daimler SP250": {
+        "format": "JPEG",
+        "taille": "5023x3352",
+        "orientation": "Paysage",
+        "date_creation": "2022:09:02 14:58:31",
+        "appareil_photo": "Canon EOS 5D Mark IV"
+    },
+    "Mercedes-Benz 300": {
+        "format": "JPEG",
+        "taille": "4337x2360",
+        "orientation": "Paysage",
+        "date_creation": "2011:06:11 14:31:00",
+        "appareil_photo": "Canon EOS 550D"
+    },
+    "Austro-Daimler ADM": {
+        "format": "JPEG",
+        "taille": "600x362",
+        "orientation": "Paysage",
+        "date_creation": "2005:10:16 13:37:58",
+        "appareil_photo": "DMC-LZ2"
+    },
+    "Mia": {
+        "format": "JPEG",
+        "taille": "1441x900",
+        "orientation": "Paysage",
+        "date_creation": "2010:03:02 18:09:46",
+        "appareil_photo": "NIKON D3000"
+    },
+    "ZIL-112 Sports": {
+        "format": "JPEG",
+        "taille": "2948x2031",
+        "orientation": "Paysage",
+        "date_creation": "2016:07:30 12:01:05",
+        "appareil_photo": "NIKON D3100"
+    },
+    "Benz 14/30 PS": {
+        "format": "JPEG",
+        "taille": "5707x3808",
+        "orientation": "Paysage",
+        "date_creation": "2022:09:02 10:17:49",
+        "appareil_photo": "Canon EOS 5D Mark IV"
+    },
+    "Studebaker Conestoga": {
+        "format": "JPEG",
+        "taille": "2816x2112",
+        "orientation": "Paysage",
+        "date_creation": "2012:07:02 15:06:39",
+        "appareil_photo": "Canon PowerShot SX130 IS"
+    },
+    "Citroën Type B14": {
+        "format": "JPEG",
+        "taille": "1024x768",
+        "orientation": "Paysage",
+        "date_creation": "2007:06:17 16:43:57",
+        "appareil_photo": "Canon DIGITAL IXUS 400"
+    },
+    "Citroën B14": {
+        "format": "JPEG",
+        "taille": "1024x768",
+        "orientation": "Paysage",
+        "date_creation": "2007:06:17 16:43:57",
+        "appareil_photo": "Canon DIGITAL IXUS 400"
+    },
+    "ZIS-110": {
+        "format": "JPEG",
+        "taille": "3743x2045",
+        "orientation": "Paysage",
+        "date_creation": "2021:08:09 13:25:57",
+        "appareil_photo": "Canon EOS 5D Mark III"
+    },
+    "ZIS 110": {
+        "format": "JPEG",
+        "taille": "3743x2045",
+        "orientation": "Paysage",
+        "date_creation": "2021:08:09 13:25:57",
+        "appareil_photo": "Canon EOS 5D Mark III"
+    },
+    "Riley 2 ½": {
+        "format": "JPEG",
+        "taille": "2048x1536",
+        "orientation": "Paysage",
+        "date_creation": "2008:04:05 16:52:56",
+        "appareil_photo": "K800i"
+    },
+    "Audi 920": {
+        "format": "JPEG",
+        "taille": "4930x3294",
+        "orientation": "Paysage",
+        "date_creation": "2018:03:22 15:30:51",
+        "appareil_photo": "Canon EOS 5D Mark III"
+    },
+    "Opel 1,8 L": {
+        "format": "JPEG",
+        "taille": "800x432",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Autobianchi Giardiniera": {
+        "format": "JPEG",
+        "taille": "1024x682",
+        "orientation": "Paysage",
+        "date_creation": "2009:06:14 16:55:31",
+        "appareil_photo": "DMC-TZ3"
+    },
+    "Tesla Roadster (first generation)": {
+        "format": "JPEG",
+        "taille": "2816x2112",
+        "orientation": "Paysage",
+        "date_creation": "2006:09:27 12:17:54",
+        "appareil_photo": "DSC-S600"
+    },
+    "Opel 1.8 litre": {
+        "format": "JPEG",
+        "taille": "800x432",
+        "orientation": "Paysage",
+        "date_creation": "Inconnue",
+        "appareil_photo": "Inconnu"
+    },
+    "Peugeot 107": {
+        "format": "JPEG",
+        "taille": "1721x1002",
+        "orientation": "Paysage",
+        "date_creation": "2019:03:14 17:29:26",
+        "appareil_photo": "u10D,S300D,u300D"
+    },
+    "Tesla Roadster": {
+        "format": "JPEG",
+        "taille": "2816x2112",
+        "orientation": "Paysage",
+        "date_creation": "2006:09:27 12:17:54",
+        "appareil_photo": "DSC-S600"
+    },
+    "Ford Explorer Sport Trac": {
+        "format": "JPEG",
+        "taille": "1956x1152",
+        "orientation": "Paysage",
+        "date_creation": "2012:03:21 10:46:08",
+        "appareil_photo": "Canon PowerShot A590 IS"
+    }
+}
